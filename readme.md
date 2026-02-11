@@ -16,10 +16,9 @@ Official implementation of **WorldEdit**.
 
 ## 📌 Overview
 
-**WorldEdit** is a large-scale benchmark and unified framework for open-world image editing.  
-It aims to systematically evaluate and advance image editing models beyond narrow-domain or template-based settings.
+**WorldEdit** is a large-scale benchmark and unified framework for open-world image editing. It aims to systematically evaluate and advance image editing models beyond narrow-domain or template-based settings.
 
-Recent image editing systems have shown strong performance on constrained tasks, yet they often struggle in open-domain scenarios requiring complex reasoning, compositional understanding, and precise visual control. To address this gap, **WorldEdit** introduces:
+ **WorldEdit** introduces:
 
 - 🌍 A large-scale open-world image editing benchmark covering diverse real-world scenarios  
 - 📊 A standardized and reproducible evaluation pipeline  
