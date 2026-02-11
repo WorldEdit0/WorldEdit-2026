@@ -1,14 +1,14 @@
 # 🌍 WorldEdit: Open-World Image Editing Benchmark and Model
 
 [![Project Page](https://img.shields.io/badge/Project-Website-blue)](https://worldedit0.github.io/WorldEdit/)
-[![Paper](https://img.shields.io/badge/Paper-OpenReview-red)](https://openreview.net/pdf?id=ErPfOExrrr)
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-red)](https://arxiv.org/abs/2602.07095v1)
 [![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-yellow)](https://huggingface.co/datasets/WorldEdit0/WorldEdit)
 [![Model](https://img.shields.io/badge/Model-HuggingFace-green)](https://huggingface.co/WorldEdit0/WorldEdit2026)
 
 Official implementation of **WorldEdit**.
 
 > 🌐 Project Page: https://worldedit0.github.io/WorldEdit/  
-> 📄 Paper: https://openreview.net/pdf?id=ErPfOExrrr  
+> 📄 Paper: https://arxiv.org/abs/2602.07095v1  
 > 🤗 Benchmark & Dataset: https://huggingface.co/datasets/WorldEdit0/WorldEdit  
 > 🤗 Model Weights: https://huggingface.co/WorldEdit0/WorldEdit2026  
 
@@ -157,11 +157,14 @@ Set your API key in the eval.sh before running evaluation.
 If you find this work useful, please cite:
 
 ```bibtex
-@article{worldedit2026,
-  title={WorldEdit: Open-World Image Editing Benchmark and Model},
-  author={Authors},
-  year={2026},
-  journal={OpenReview}
+@misc{lin2026worldeditopenworldimageediting,
+      title={WorldEdit: Towards Open-World Image Editing with a Knowledge-Informed Benchmark}, 
+      author={Wang Lin and Feng Wang and Majun Zhang and Wentao Hu and Tao Jin and Zhou Zhao and Fei Wu and Jingyuan Chen and Alan Yuille and Sucheng Ren},
+      year={2026},
+      eprint={2602.07095},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2602.07095}, 
 }
 ```
 
