@@ -1,11 +1,11 @@
-# 🌍 WorldEdit (2026): Open-World Image Editing Benchmark and Model
+# 🌍 WorldEdit: Open-World Image Editing Benchmark and Model
 
 [![Project Page](https://img.shields.io/badge/Project-Website-blue)](https://worldedit0.github.io/WorldEdit/)
 [![Paper](https://img.shields.io/badge/Paper-OpenReview-red)](https://openreview.net/pdf?id=ErPfOExrrr)
 [![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-yellow)](https://huggingface.co/datasets/WorldEdit0/WorldEdit)
 [![Model](https://img.shields.io/badge/Model-HuggingFace-green)](https://huggingface.co/WorldEdit0/WorldEdit2026)
 
-Official implementation of **WorldEdit (2026)**.
+Official implementation of **WorldEdit**.
 
 > 🌐 Project Page: https://worldedit0.github.io/WorldEdit/  
 > 📄 Paper: https://openreview.net/pdf?id=ErPfOExrrr  
