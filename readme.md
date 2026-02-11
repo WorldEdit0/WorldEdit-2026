@@ -29,33 +29,6 @@ This repository contains:
 - Evaluation scripts  
 - Example notebook  
 
----
-
-## 📂 Repository Structure
-
-```bash
-WorldEdit-2026/
-│
-├── data/                   # Data utilities
-├── eval/                   # Benchmark evaluation code
-│   ├── eval.py
-│   ├── eval.sh
-│   ├── infer.sh
-│   ├── prompts.py
-│   ├── worldedit_bench/
-│   ├── output/
-│   └── worldedit_infer.py
-│
-├── modeling/               # Model architecture
-├── weights/                # Model weights (downloaded here)
-│
-├── infer.py                # Inference script
-├── inferencer.py           # Inference utilities
-├── inference.ipynb         # Example notebook
-├── example.png             # Example input
-├── requirements.txt
-└── README.md
-```
 
 ---
 
