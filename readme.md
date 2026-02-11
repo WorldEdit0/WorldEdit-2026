@@ -93,7 +93,6 @@ WorldEdit provides a standardized benchmark for evaluation.
 
 ```bash
 cd eval
-
 huggingface-cli download WorldEdit0/WorldEdit \
     WorldEdit/test-00000-of-00001.parquet \
     --repo-type dataset \
