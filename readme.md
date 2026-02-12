@@ -127,7 +127,7 @@ bash infer.sh
 1. Place your edited `.png` results into:
 
 ```
-eval/output/
+output/
 ```
 
 2. Run evaluation:
