@@ -96,7 +96,7 @@ cd eval
 huggingface-cli download WorldEdit0/WorldEdit \
     WorldEdit/test-00000-of-00001.parquet \
     --repo-type dataset \
-    --local-dir eval/worldedit_bench \
+    --local-dir worldedit_bench \
     --resume-download
 ```
 
